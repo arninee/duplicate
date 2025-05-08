@@ -1,4 +1,4 @@
-# farm2you
+# farm2you duplicate
 
 A new Flutter project.
 
